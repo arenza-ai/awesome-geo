@@ -52,6 +52,7 @@ Listed alphabetically. Inclusion is not endorsement — pricing, coverage, and f
 - [arenza-langchain](https://github.com/naiqiao/arenza-langchain) — LangChain tools wrapper around the Arenza API.
 - [arenza-llamaindex](https://github.com/naiqiao/arenza-llamaindex) — LlamaIndex integration for Arenza.
 - [arenza-vercel-ai-sdk](https://github.com/naiqiao/arenza-vercel-ai-sdk) — Vercel AI SDK provider for Arenza tools.
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, GEO, and AEO audits, bundling Google Search Console MCP, Google Analytics (GA4) MCP, Google Ads MCP, and Meta Ads MCP servers for live data.
 
 ## Datasets & Benchmarks
 
