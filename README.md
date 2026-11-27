@@ -39,6 +39,7 @@ Listed alphabetically. Inclusion is not endorsement — pricing, coverage, and f
 - [BrandRank.AI](https://brandrank.ai) — brand mention tracking across LLMs.
 - [Daydream](https://withdaydream.com) — AI search marketing platform.
 - [Goodie](https://goodie.ai) — AI search optimization and answer engine analytics.
+- [Lanesra AI](https://lanesra.ai): GEO/AEO analytics and optimization for AI search, including AX (Agentic Experience).
 - [Otterly.ai](https://otterly.ai) — early-mover (2023) tool for tracking brand mentions in AI search.
 - [Peec AI](https://peec.ai) — Berlin-based AI visibility platform with agency focus.
 - [Profound](https://profound.co) — early-mover platform with large-scale brand visibility index, ChatGPT-focused.
